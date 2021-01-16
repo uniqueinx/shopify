@@ -1,0 +1,6 @@
+ShopifyAPI
+orjson
+jinja2
+aiofiles
+motor
+fastapi-jwt-auth
